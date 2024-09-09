@@ -1,0 +1,7 @@
+*.class
+.vscode
+.idea
+*.pyc
+__pycache__
+python/*.csv
+a.out
